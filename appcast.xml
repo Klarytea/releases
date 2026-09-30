@@ -4,6 +4,14 @@
         <title>Klarytea</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 30 Sep 2026 09:30:03 +0600</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Klarytea/releases/releases/download/v1.0.14/Klarytea-1.0.14.zip" length="2292900" type="application/octet-stream" sparkle:edSignature="o0qRNQE0LITn/k9DOpHHxVPTo+DM7n6CcbvkFcLdHaCzXGQCRmJVkJUWQv7BijeSlIxneDMC42IT39wYAvnNCw=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 27 Sep 2026 16:36:58 +0600</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Klarytea/releases/releases/download/v1.0.12/Klarytea-1.0.12.zip" length="2264637" type="application/octet-stream" sparkle:edSignature="s04hGWQuPN5bNQ1BHUNOahcUiKSQF05gheK5kqanvKn86UwQ5cQ8RpKgslM0N3/T7hoMlv20H26ngD1Kzm1EAA=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sat, 26 Sep 2026 15:58:14 +0600</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Klarytea/releases/releases/download/v1.0.11/Klarytea-1.0.11.zip" length="2246079" type="application/octet-stream" sparkle:edSignature="/27aqpLSNLKcUdk+HUXLM4mcuO9bpxml0xPykEn5irOUBlAkeilklk8mtOkT/ABgIicOI5efijpHzp008tqXDg=="/>
         </item>
     </channel>
 </rss>
